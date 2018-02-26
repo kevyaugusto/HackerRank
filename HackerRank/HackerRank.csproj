@@ -58,6 +58,26 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="SQL\AdvancedSelect\ProblemStatements\binary-search-tree-1-English.pdf" />
+    <None Include="SQL\AdvancedSelect\ProblemStatements\occupations-English.pdf" />
+    <None Include="SQL\AdvancedSelect\ProblemStatements\the-pads-English.pdf" />
+    <None Include="SQL\AdvancedSelect\ProblemStatements\what-type-of-triangle-English.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SQL\AdvancedSelect\BinaryTreeNodes.sql" />
+    <Content Include="SQL\AdvancedSelect\Occupations.sql" />
+    <Content Include="SQL\AdvancedSelect\ThePADS.sql" />
+    <Content Include="SQL\AdvancedSelect\TypeOfTriangle.sql" />
+    <Content Include="SQL\BasicSelect\EmployeeSalaries.sql" />
+    <Content Include="SQL\BasicSelect\EmployeeNames.sql" />
+    <Content Include="SQL\BasicSelect\HigherThan75Marks.sql" />
+    <Content Include="SQL\BasicSelect\WeatherObservationStation12.sql" />
+    <Content Include="SQL\BasicSelect\WeatherObservationStation11.sql" />
+    <Content Include="SQL\BasicSelect\WeatherObservationStation10.sql" />
+    <Content Include="SQL\BasicSelect\WeatherObservationStation9.sql" />
+    <Content Include="SQL\BasicSelect\WeatherObservationStation8.sql" />
+    <Content Include="SQL\BasicSelect\WeatherObservationStation7.sql" />
+    <Content Include="SQL\BasicSelect\WeatherObservationStation6.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
