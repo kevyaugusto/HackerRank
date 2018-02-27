@@ -57,9 +57,11 @@
     <Compile Include="Algorithms\Warmup\SolveMeFirstTests.cs" />
     <Compile Include="Algorithms\Warmup\TimeConversionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day5LoopsTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day1DataTypeTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day2OperatorsTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day3IntroToConditionalStatementsTests.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day4ClassVsInstanceTests.cs" />
     <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -69,10 +71,16 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="TestFiles\Day4ClassVsInstanceTest00Input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="TestFiles\Day3IntroToConditionalStatementsTest01Input.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestFiles\Day3IntroToConditionalStatementsTest00Input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestFiles\Day4ClassVsInstanceTest00Output.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestFiles\Day3IntroToConditionalStatementsTest01Output.txt">
@@ -93,10 +101,16 @@
     <Content Include="TestFiles\Day1DataTypeTest00Output.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="TestFiles\Day5LoopsTest00Input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="TestFiles\TimeConversionTest00Input.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestFiles\BirthdayCakeCandlesTest00Input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestFiles\Day5LoopsTest00Output.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestFiles\TimeConversionTest00Output.txt">
