@@ -71,6 +71,7 @@
     <None Include="Tutorials\30DaysOfCode\ProblemStatements\Day6LetsReview.pdf" />
     <None Include="Tutorials\30DaysOfCode\ProblemStatements\Day7Arrays.pdf" />
     <None Include="Tutorials\30DaysOfCode\ProblemStatements\Day8DictionariesAndMaps.pdf" />
+    <None Include="Tutorials\30DaysOfCode\ProblemStatements\Day9Recursion.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="SQL\AdvancedSelect\BinaryTreeNodes.sql" />
