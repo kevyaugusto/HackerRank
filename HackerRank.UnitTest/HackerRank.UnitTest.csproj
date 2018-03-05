@@ -57,6 +57,9 @@
     <Compile Include="Algorithms\Warmup\SolveMeFirstTests.cs" />
     <Compile Include="Algorithms\Warmup\TimeConversionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="TestFiles\Day8DictionariesAndMapsTest00Output.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Compile Include="Tutorials\30DaysOfCode\Day6LetsReviewTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day5LoopsTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day1DataTypeTests.cs" />
@@ -64,6 +67,7 @@
     <Compile Include="Tutorials\30DaysOfCode\Day3IntroToConditionalStatementsTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day4ClassVsInstanceTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day7ArraysTests.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day8DictionariesAndMapsTests.cs" />
     <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -116,6 +120,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestFiles\Day7ArraysTest00Output.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestFiles\Day8DictionariesAndMapsTest00Input.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestFiles\TimeConversionTest00Input.txt">
