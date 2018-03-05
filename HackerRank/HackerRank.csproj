@@ -58,6 +58,7 @@
     <Compile Include="Tutorials\30DaysOfCode\Day5Loops.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day4ClassVsInstance.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day6LetsReview.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day7Arrays.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -66,6 +67,7 @@
     <None Include="SQL\AdvancedSelect\ProblemStatements\the-pads-English.pdf" />
     <None Include="SQL\AdvancedSelect\ProblemStatements\what-type-of-triangle-English.pdf" />
     <None Include="Tutorials\30DaysOfCode\ProblemStatements\Day6LetsReview.pdf" />
+    <None Include="Tutorials\30DaysOfCode\ProblemStatements\Day7Arrays.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="SQL\AdvancedSelect\BinaryTreeNodes.sql" />

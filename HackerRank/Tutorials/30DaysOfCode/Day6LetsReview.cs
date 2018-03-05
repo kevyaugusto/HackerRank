@@ -38,13 +38,11 @@ namespace HackerRank.Tutorials._30DaysOfCode
 
         public void Main(string[] args)
         {
-            var result = new List<string>();
-
-            var n = int.Parse(args[0]);
+            var n = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < n; i++)
             {
-                var s = args[i + 1];
+                var s = Console.ReadLine();
 
                 string even = string.Empty, odd = string.Empty;
 
@@ -58,10 +56,8 @@ namespace HackerRank.Tutorials._30DaysOfCode
                         odd += c;
                 }
 
-                result.Add($"{even} {odd}");
+                Console.WriteLine($"{even} {odd}");
             }
-
-            return result;
         }
     }
 }

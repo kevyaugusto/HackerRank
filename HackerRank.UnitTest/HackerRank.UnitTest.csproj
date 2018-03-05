@@ -63,6 +63,7 @@
     <Compile Include="Tutorials\30DaysOfCode\Day2OperatorsTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day3IntroToConditionalStatementsTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day4ClassVsInstanceTests.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day7ArraysTests.cs" />
     <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -109,6 +110,12 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestFiles\Day6LetsReviewTest00Input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestFiles\Day7ArraysTest00Input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestFiles\Day7ArraysTest00Output.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestFiles\TimeConversionTest00Input.txt">
