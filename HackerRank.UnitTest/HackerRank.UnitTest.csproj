@@ -57,6 +57,7 @@
     <Compile Include="Algorithms\Warmup\SolveMeFirstTests.cs" />
     <Compile Include="Algorithms\Warmup\TimeConversionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day6LetsReviewTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day5LoopsTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day1DataTypeTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day2OperatorsTests.cs" />
@@ -102,6 +103,12 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestFiles\Day5LoopsTest00Input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestFiles\Day6LetsReviewTest00Output.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestFiles\Day6LetsReviewTest00Input.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="TestFiles\TimeConversionTest00Input.txt">
