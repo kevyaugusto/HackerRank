@@ -15,6 +15,7 @@ namespace HackerRank.Tutorials._30DaysOfCode
             var n = int.Parse(args[0]);
 
             var a = args[1].Split(' ').ToList();
+
             a.Reverse();
 
             var output = string.Empty;
