@@ -1,4 +1,5 @@
 ﻿using HackerRank.Algorithms.Warmup;
+using HackerRank.Tutorials._30DaysOfCode;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,7 @@ namespace HackerRank
             //new SolveMeFirst().Main(args);
             //new AVeryBigSum().Main(args);
             //new PlusMinus().Main(args);
+            new Day10Binary().Main(new List<string>());
 
             var cultureInfo = System.Globalization.CultureInfo.GetCultureInfo("en-US");
 

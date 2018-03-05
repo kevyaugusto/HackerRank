@@ -52,6 +52,7 @@
     <Compile Include="Algorithms\Warmup\TimeConversion.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day10Binary.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day1DataTypes.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day2Operators.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day3IntroToConditionalStatements.cs" />
@@ -68,6 +69,7 @@
     <None Include="SQL\AdvancedSelect\ProblemStatements\occupations-English.pdf" />
     <None Include="SQL\AdvancedSelect\ProblemStatements\the-pads-English.pdf" />
     <None Include="SQL\AdvancedSelect\ProblemStatements\what-type-of-triangle-English.pdf" />
+    <None Include="Tutorials\30DaysOfCode\ProblemStatements\Day10Binary.pdf" />
     <None Include="Tutorials\30DaysOfCode\ProblemStatements\Day6LetsReview.pdf" />
     <None Include="Tutorials\30DaysOfCode\ProblemStatements\Day7Arrays.pdf" />
     <None Include="Tutorials\30DaysOfCode\ProblemStatements\Day8DictionariesAndMaps.pdf" />
