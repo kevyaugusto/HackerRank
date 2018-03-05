@@ -60,6 +60,7 @@
     <Compile Include="Tutorials\30DaysOfCode\Day6LetsReview.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day7Arrays.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day8DictionariesAndMaps.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day9Recursion.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
