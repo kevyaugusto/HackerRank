@@ -63,6 +63,18 @@
     <Content Include="TestFiles\Day10BinaryTest00Output.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="TestFiles\Day112DArraysTest01Input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestFiles\Day112DArraysTest00Input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestFiles\Day112DArraysTest01Output.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestFiles\Day112DArraysTest00Output.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="TestFiles\Day8DictionariesAndMapsTest00Output.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -70,6 +82,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Compile Include="Tutorials\30DaysOfCode\Day10BinaryTests.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day112DArraysTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day6LetsReviewTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day5LoopsTests.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day1DataTypeTests.cs" />
